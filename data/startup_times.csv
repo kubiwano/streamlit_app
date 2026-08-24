@@ -1,0 +1,44 @@
+iso3,country,startup_days,authority,confidence,source_note
+AUT,Austria,60,EMA / national CA,statutory,EU CTR 536/2014: validation 10 + Part I 45 + decision 5
+BEL,Belgium,60,FAMHP,statutory,EU CTR 536/2014
+BGR,Bulgaria,60,BDA,statutory,EU CTR 536/2014
+HRV,Croatia,60,HALMED,statutory,EU CTR 536/2014
+CYP,Cyprus,60,Cyprus MoH,statutory,EU CTR 536/2014
+CZE,Czechia,60,SUKL,statutory,EU CTR 536/2014
+DNK,Denmark,60,DKMA,statutory,EU CTR 536/2014
+EST,Estonia,60,SAM,statutory,EU CTR 536/2014
+FIN,Finland,60,Fimea,statutory,EU CTR 536/2014
+FRA,France,60,ANSM,statutory,EU CTR 536/2014
+DEU,Germany,60,BfArM / PEI,statutory,EU CTR 536/2014
+GRC,Greece,60,EOF,statutory,EU CTR 536/2014
+HUN,Hungary,60,OGYEI,statutory,EU CTR 536/2014
+IRL,Ireland,60,HPRA,statutory,EU CTR 536/2014
+ITA,Italy,60,AIFA,statutory,EU CTR 536/2014
+LVA,Latvia,60,ZVA,statutory,EU CTR 536/2014
+LTU,Lithuania,60,SMCA,statutory,EU CTR 536/2014
+LUX,Luxembourg,60,Ministry of Health,statutory,EU CTR 536/2014
+MLT,Malta,60,Medicines Authority,statutory,EU CTR 536/2014
+NLD,Netherlands,60,CCMO,statutory,EU CTR 536/2014
+POL,Poland,60,URPL,statutory,EU CTR 536/2014
+PRT,Portugal,60,INFARMED,statutory,EU CTR 536/2014
+ROU,Romania,60,ANMDMR,statutory,EU CTR 536/2014
+SVK,Slovakia,60,SUKL SK,statutory,EU CTR 536/2014
+SVN,Slovenia,60,JAZMP,statutory,EU CTR 536/2014
+ESP,Spain,60,AEMPS,statutory,EU CTR 536/2014
+SWE,Sweden,60,MPA,statutory,EU CTR 536/2014
+ISL,Iceland,60,IMA,statutory,EU CTR 536/2014 via EEA
+NOR,Norway,60,NoMA,statutory,EU CTR 536/2014 via EEA
+LIE,Liechtenstein,60,Office of Public Health,statutory,EU CTR 536/2014 via EEA
+USA,United States,30,FDA,statutory,IND 30-day review period
+GBR,United Kingdom,30,MHRA,statutory,standard CTA; notifiable trials 14 days from 2026
+CAN,Canada,30,Health Canada,statutory,CTA 30-day default review
+AUS,Australia,30,TGA,documented,CTN notification scheme; HREC is the rate-limiting step
+CHE,Switzerland,30,Swissmedic,statutory,30-day review alongside cantonal ethics committee
+JPN,Japan,30,PMDA,statutory,Clinical Trial Notification 30-day initial review
+CHN,China,84,NMPA,statutory,60 working days default (~84 calendar); 30 wd expedited track
+KOR,"Korea, Rep.",30,MFDS,statutory,IND 30-day review
+IND,India,125,CDSCO,statutory,90 working days for global trials (~125 calendar)
+BRA,Brazil,90,ANVISA,statutory,90 calendar days; 180 for biologicals and phase I-II
+ARG,Argentina,60,ANMAT,documented,reported range 30-90 days; midpoint used
+MEX,Mexico,60,COFEPRIS,documented,reported range 30-90 days; midpoint used
+SGP,Singapore,30,HSA,documented,~4 weeks regulatory; ethics adds 4-6 weeks
